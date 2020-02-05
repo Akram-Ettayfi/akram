@@ -1,0 +1,163 @@
+body {
+  background-image: ;
+}
+.Digitalisation_en_main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.carousel-item {
+  height: 800%;
+  width: 100%;
+}
+.pr_img {
+  display: flex;
+  justify-content: space-around;
+  border-radius: 20px;
+}
+.sommmesnous {
+ display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  align-items: center;
+  background-color: rgba(128, 128, 128, 0.24);
+
+}
+.sommes p {
+width: 80%;
+padding: 25px;
+margin-left: 50px;
+text-align: center;
+ }
+.sommes {
+text-align: center;
+
+}
+
+.Services_items {
+  padding: 25px;
+  margin-left: 50px;
+  text-align: center;
+
+}
+
+
+.box {
+  height: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.box>* {
+  flex: 1 1 40px;
+}
+.equipes img {
+  margin-top: 430px;
+}
+.equipe h1 {
+  text-align: center;
+}
+.team_img img{
+float: right;
+width: 800px;
+height: 300px;
+}
+.imgeqp img {
+  width: 200px;
+  height: 150px;
+  margin-right: 500px;
+}
+.eqp {
+  height: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin-top: 30px;
+  justify-content: space-around;
+}
+.clients p {
+text-align: center;
+
+}
+.equipe {
+  margin-top: 20px;
+}
+.clients h1 {
+  text-align: center;
+
+}
+.clients {
+  margin-top: 240px;
+  background-color: rgba(128, 128, 128, 0.24);
+   padding: 20px; 
+  
+}
+.box>* {
+  flex: 1 1 40px;
+}
+.container{
+  margin-top: 100px;
+}
+#logo{
+  width: 100px;
+  height:   100px;
+  float: left;
+}
+.cominication{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 100px;
+  background-color: rgba(0, 0, 0, 0.089);
+}
+.cominication .cominication_pargraph{
+  width: 40%;
+}
+.input_items{
+  display: flex;
+  flex-direction: column;
+  margin-top: 70px;
+}
+.input_items input , .input_items textarea{
+  margin-top: 20px;
+  height: 40px;
+  width: 130%;
+  border-radius: 10px;
+  border: 1px solid black;
+  padding-left: 20px;
+}
+.input_items button{
+  width: 130%;
+  height: 40px;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+.input_items button:hover{
+  background-color: gray;
+}
+.service
+{
+
+  text-align: center;
+}
+.service p  {
+  text-align: center;
+}
+
+
+
+.srvcp {
+  text-align: center;
+}
+
+
+.pic
+{
+ /* margin-right:200px; */
+ height: 60px;
+ width: 500px;
+}
+.team_img{
+  margin-right: 50px;
+}
